@@ -1,2 +1,0 @@
-# Iconia
-template
